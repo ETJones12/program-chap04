@@ -1,8 +1,6 @@
 # program-chap04
 
-Design and implement a class called Sphere  that contains instance data that represents the sphere’s diameter.
-Define the Sphere constructor to accept and initialize the diameter,  and include getter  and setter  methods for the diameter. Include methods calcVolume  and calcSurfaceArea that calculate and return the volume and surface area of the sphere. 
-Include a toString  method that returns a one-line description of the sphere in this form:
+Using the file Sphere.java in this repository, design and implement a class called Sphere  that contains instance data that represents the sphere’s diameter. Define the Sphere constructor to accept and initialize the diameter,  and include getter  and setter  methods for the diameter. Include methods calcVolume  and calcSurfaceArea that calculate and return the volume and surface area of the sphere. Include a toString  method that returns a one-line description of the sphere in this form:
 
 
 A sphere with diameter X has surface area Y and volume Z.
@@ -35,7 +33,8 @@ Enter diameter: 43.2
 A sphere with diameter 43.2 has surface area: 5862.966 and volume: 42213.354.
 ```
 
-Name your class file Sphere.java. Submit to your CodePost account. Be sure to put the required comments at the top of the source code file. 
+Using TestSphere.java to test your Sphere class. 
+Name your class file Sphere.java. Submit BOTH Sphere.java and TestSphere.java to your CodePost account. Be sure to put the required comments at the top of the source code file. 
 
 ```
 After you have submitted your code to CodePost, 
