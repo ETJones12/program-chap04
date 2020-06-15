@@ -25,7 +25,7 @@ Enter diameter:
 
 SPECIFICATIONS FOR OUTPUT:
 ```
-A sphere with diameter 0.### has surface area: 0.### and volume: 0.###
+A sphere with diameter 0.### has surface area: 0.### and volume: 0.###.
 ```
 
 EXAMPLE:
